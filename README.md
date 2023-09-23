@@ -3,8 +3,7 @@
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/slmmy.prw/))
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/bruno-de-oliveira-santos-650019228/)]((https://www.linkedin.com/in/bruno-de-oliveira-santos-650019228))
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://github.com/arthurspk](https://www.linkedin.com/in/bruno-de-oliveira-santos-650019228/))]([https://www.linkedin.com/in/arthurspk/](https://www.linkedin.com/in/bruno-de-oliveira-santos-650019228/))
 
 </h4>
 
