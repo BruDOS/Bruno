@@ -1,4 +1,4 @@
-# Hi, I'm Bruno - 👾 @slmprw
+# Hi, I'm Bruno - 👾 @BruDOS
 
 <h4 align="center">
 
